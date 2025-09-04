@@ -1,6 +1,0 @@
-git init
-git add .
-git commit -m "Initial commit - Deployed by Sooraj-dsa at 2025-09-04 15:55:32"
-git branch -M main
-git remote add origin https://github.com/Sooraj-dsa/chatbridge.git
-git push -u origin main
