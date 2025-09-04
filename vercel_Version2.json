@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "buildCommand": "cd frontend && npm run build",
+  "outputDirectory": "frontend/.next",
+  "framework": "nextjs",
+  "env": {
+    "DEPLOYMENT_TIMESTAMP": "2025-09-04 15:55:32",
+    "DEPLOYED_BY": "Sooraj-dsa"
+  }
+}
